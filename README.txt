@@ -12,4 +12,13 @@ After editing user or car reservation Id becomes 0 (!ACID)
 UI is could be much better.
 Deadline has come and I haven`t time to fix it.
 
+Unfinished parts:
+Spring Validation,
+Correct input fields(calendar & dropdowns for time)
+Login service,
+Audit Fields (need login),
+History table & page.
+Correct messaging(currently no messages displays if editing reservation and car or user already have reservation)
+mb REST implementation.
+
 Next time I`ll definetly use testing frameworks;
