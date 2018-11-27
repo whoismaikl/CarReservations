@@ -8,9 +8,8 @@ Add database login password in WEB-INF/mvc-dispatcher-servlet.xml,
 Run=>Edit Configurations select Tomcat server.
 
 Known major bugs:
-After editing user or car reservation Id becomes 0 (!ACID)
+After editing user or car reservation Id becomes 0 (!ACID) ( TDD!!)
 UI is could be much better.
-Deadline has come and I haven`t time to fix it.
 
 Unfinished parts:
 Spring Validation,
